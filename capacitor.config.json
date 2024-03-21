@@ -1,0 +1,8 @@
+{
+  "appId": "com.smashtherooms.app",
+  "appName": "SmashTheRoooms",
+  "webDir": "dist",
+  "server": {
+    "androidScheme": "https"
+  }
+}

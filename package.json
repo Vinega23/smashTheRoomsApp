@@ -1,0 +1,27 @@
+{
+  "name": "smash-the-rooms",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@capacitor/android": "^5.7.3",
+    "@capacitor/cli": "^5.7.3",
+    "@capacitor/core": "^5.7.3",
+    "@capacitor/ios": "^5.7.3",
+    "axios": "^1.6.7",
+    "git": "^0.1.5",
+    "mitt": "^3.0.1",
+    "vue": "^3.4.19",
+    "vue-router": "^4.3.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.0.4",
+    "sass": "^1.71.1",
+    "vite": "^5.1.4"
+  }
+}

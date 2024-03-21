@@ -1,0 +1,122 @@
+[
+	{
+		"id": 1,
+		"name": "Toppen",
+		"floor": 0
+	},
+	{
+		"id": 2,
+		"name": "Sirppi",
+		"floor": 0
+	},
+	{
+		"id": 3,
+		"name": "Nielu",
+		"floor": 0
+	},
+	{
+		"id": 4,
+		"name": "Parila",
+		"floor": 0
+	},
+	{
+		"id": 5,
+		"name": "Mikkeli",
+		"floor": 0
+	},
+	{
+		"id": 6,
+		"name": "Gabo",
+		"floor": 0
+	},
+	{
+		"id": 7,
+		"name": "Gilvo",
+		"floor": 0
+	},
+	{
+		"id": 8,
+		"name": "Kista",
+		"floor": 0
+	},
+	{
+		"id": 9,
+		"name": "Bollo",
+		"floor": 0
+	},
+	{
+		"id": 10,
+		"name": "Sierra",
+		"floor": 0
+	},
+	{
+		"id": 11,
+		"name": "Detsika",
+		"floor": 0
+	},
+	{
+		"id": 12,
+		"name": "Jorra",
+		"floor": 0
+	},
+	{
+		"id": 13,
+		"name": "Mary suite",
+		"floor": 1
+	},
+	{
+		"id": 14,
+		"name": "Ulrik suite",
+		"floor": 1
+	},
+	{
+		"id": 15,
+		"name": "Ritz suite",
+		"floor": 1
+	},
+	{
+		"id": 16,
+		"name": "Pulitzer suite",
+		"floor": 1
+	},
+	{
+		"id": 17,
+		"name": "Hamilton suite",
+		"floor": 1
+	},
+	{
+		"id": 18,
+		"name": "Field suite",
+		"floor": 1
+	},
+	{
+		"id": 19,
+		"name": "King suite",
+		"floor": 1
+	},
+	{
+		"id": 20,
+		"name": "Raipas",
+		"floor": 2
+	},
+	{
+		"id": 21,
+		"name": "Joraholmen",
+		"floor": 2
+	},
+	{
+		"id": 22,
+		"name": "Vina",
+		"floor": 2
+	},
+	{
+		"id": 23,
+		"name": "Sandia",
+		"floor": 2
+	},
+	{
+		"id": 24,
+		"name": "Sautso",
+		"floor": 2
+	}
+]

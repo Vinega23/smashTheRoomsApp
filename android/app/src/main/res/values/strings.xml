@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">SmashTheRoooms</string>
+    <string name="title_activity_main">SmashTheRoooms</string>
+    <string name="package_name">com.smashtherooms.app</string>
+    <string name="custom_url_scheme">com.smashtherooms.app</string>
+</resources>
