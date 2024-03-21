@@ -1,7 +1,17 @@
-# Vue 3 + Vite
+Smash The Rooms app
+tiny project for learning purpose, but testing in real situations.
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+Built on Vue.js framework, runs on Vite, wrapped by Capacitor and transformed to mobile app and transfered to an android device for testing thanks to Android studio. 
 
-## Recommended IDE Setup
-
-- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+To do list:
+-Design:
+  -buttons
+  -radios
+  -checklist
+  -dark/light theme
+  -text area
+  -animations
+  -front page
+  -icon/favicon
+-Counter: Sum from all floors, counting co and so sep.
+-Keep your day rooms saved, restart button for new day
