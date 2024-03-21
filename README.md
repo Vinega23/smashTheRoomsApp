@@ -1,4 +1,4 @@
-Smash The Rooms app
+Smash The Rooms app,
 tiny project for learning purpose, but testing in real situations.
 
 Built on Vue.js framework, runs on Vite, wrapped by Capacitor and transformed to mobile app and transfered to an android device for testing thanks to Android studio. 
